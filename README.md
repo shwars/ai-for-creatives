@@ -7,4 +7,4 @@
 3. **Облачные сервисы** [[YT](https://www.youtube.com/watch?v=YJ4BNjB0cwM)] [[RT](https://rutube.ru/video/private/5e943f2456f6f55a2a906b6573d610d6/?p=AOS-wEkmsLoUfkrEvXAHCg)] | [Cloud Services Demo](3-CloudServices/CloudServices.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/shwars/ai-for-creatives/blob/main/3-CloudServices/CloudServices.ipynb)
 
 ## Семинары
-* **Семинар 1** [Запись](https://my.mts-link.ru/53912089/creative-ai-1/record-new/2008917206) | [Notebook](Seminars/Seminar_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/shwars/ai-for-creatives/blob/main/Seminars/Seminar-1.ipynb)
+* **Семинар 1** [Запись](https://my.mts-link.ru/53912089/creative-ai-1/record-new/2008917206) | [Notebook](Seminars/Seminar_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/shwars/ai-for-creatives/blob/main/Seminars/Seminar_1.ipynb)
